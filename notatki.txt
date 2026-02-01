@@ -1,0 +1,4 @@
+Słownik (vocabulary)
+
+inference - wnioskowanie
+hugging face - tulenie twarzy
