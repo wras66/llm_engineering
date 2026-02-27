@@ -38,3 +38,9 @@ protobuf==3.20.2
 wandb
 diffusers
 accelerate
+google
+huggingface-hub
+transformers
+diffusers
+datasets
+soundfile
